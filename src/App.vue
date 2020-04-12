@@ -3,6 +3,8 @@
 </template>
 
 <script>
+import { auth } from "./firebase";
+
 export default {
   name: "App"
 };
